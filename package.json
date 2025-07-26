@@ -1,0 +1,24 @@
+{
+  "name": "aubi",
+  "version": "0.1.0",
+  "description": "Welcome to the AUBI Framework implementation! 🌍💰",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@bjornkennethholmstrom/ggf-core": "^0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlobalGovernanceFrameworks/aubi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GlobalGovernanceFrameworks/aubi/issues"
+  },
+  "homepage": "https://github.com/GlobalGovernanceFrameworks/aubi#readme"
+}
