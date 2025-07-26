@@ -302,7 +302,7 @@ AUBI Framework operates under community ownership principles:
 
 *"AUBI is the living expression of the Treaty for Our Only Home, channeling Hearts and Leaves as the lifeblood of a regenerative economy guided by Indigenous wisdom."*
 
-**Status**: Framework complete, pilot development beginning Q1 2025. Join us in building economic security that honors Right Relationship and planetary flourishing! 🌍💚
+**Status**: Framework complete, pilot development beginning Q1 2026. Join us in building economic security that honors Right Relationship and planetary flourishing! 🌍💚
 
 ---
 
