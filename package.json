@@ -3,20 +3,26 @@
   "version": "0.1.0",
   "description": "Welcome to the AUBI Framework implementation! 🌍💰",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@bjornkennethholmstrom/ggf-core": "^0.1.1"
+    "@bjornkennethholmstrom/ggf-core": "^0.1.6"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GlobalGovernanceFrameworks/aubi.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
+  "keywords": [
+    "aubi",
+    "universal-basic-income", 
+    "hearts",
+    "leaves",
+    "governance"
+  ],
+  "author": "Global Governance Frameworks",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/GlobalGovernanceFrameworks/aubi/issues"
   },
